@@ -2,7 +2,7 @@
 
 As part of my Udacity Machine Learning Nanodegree, I learned how to build a pipeline to process real-world, user-supplied images. Given an image of a dog, my algorithm identified an estimate of the canine's breed. If it is supplied with an image of a human, the code identifies the dog breed that human most closely resembles. 
 
-See my implementation and report [here](https://github.com/robertyoung2/Train-a-Smartcab-to-Drive/blob/master/smartcab.ipynb).
+See my implementation and report [here](https://github.com/robertyoung2/dog-project-master/blob/master/dog_app.ipynb).
 
 ## Project Brief
 
